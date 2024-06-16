@@ -80,7 +80,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@devvyyxyz](https://twitter.com/devvyyxyz) - devvyydev@protonmail.com
+@devvyyxyz - [@devvyyxyz](https://twitter.com/devvyyxyz) - devvyydev@protonmail.com
 
 Project Link: [https://github.com/devvyyxyz/100-python-games](https://github.com/devvyyxyz/100-python-games)
 
