@@ -50,19 +50,16 @@ To run the Python games locally, you need:
 You can play the games directly via GitHub Pages:
 
 1. Navigate to the [GitHub Pages site](https://devvyyxyz.github.io/100-python-games/).
-2. Select a game from the list and click the link to play it.
+2. Select a game from the list and click the link to play it. *(The site currently lists placeholders while games are being added.)*
 
 Alternatively, to run a game locally:
 
-1. Navigate to the game's directory:
-   ```sh
-   cd games/game1
-   ```
+1. Navigate to the game's directory once it exists (for example `games/game1`).
 2. Run the Python script:
    ```sh
    python game1.py
    ```
-3. Open `index.html` in a web browser to play the game if it supports web embedding.
+3. Open the game's `index.html` in a web browser if it supports web embedding.
 
 ## Contributing
 
